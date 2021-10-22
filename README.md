@@ -1,4 +1,13 @@
-### Hi there 👋
+<h3 >
+  Hi!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+## 
+
+<img align='right' src="https://media0.giphy.com/media/ecj9T8f6etgoqtDdrU/giphy.gif?cid=790b7611b1a31b60e6426417289df3d5d61e33861e03f8c9&rid=giphy.gif&ct=g" width="230">
+
+
 
 <!--
 **Andressalconstantino/andressalconstantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
