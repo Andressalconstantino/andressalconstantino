@@ -5,7 +5,7 @@
 
 # 
 
-<img src="https://user-images.githubusercontent.com/86380516/138404848-63f316ee-4d39-48ac-859b-1d337f8c07ac.gif" width="300" align="right">
+<img src="https://user-images.githubusercontent.com/86380516/138404848-63f316ee-4d39-48ac-859b-1d337f8c07ac.gif" width="250" align="right">
 
 <samp><i>
  <img src="https://media0.giphy.com/media/cLN4oXeiNWhNEKcA6E/giphy.gif?cid=790b7611aaf0683090b9382caf94674ee5cfd471a3eb9395&rid=giphy.gif&ct=s" width="30"> Information Systems student at <a href="https://www.furg.br/"> FURG </a> <br>
