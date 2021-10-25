@@ -24,7 +24,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href='mailto:andressaconstantinooficiall@gmail.com'><img src="https://img.icons8.com/external-flatarticons-blue-flatarticons/65/000000/external-email-contact-us-flatarticons-blue-flatarticons-8.png" width="43"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.urionlinejudge.com.br/judge/pt/profile/559245"><img src="https://user-images.githubusercontent.com/86380516/138533379-5945dd50-df0a-4845-84b4-d4b12720fc28.png" width="55"/></a>
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/559245"><img src="https://user-images.githubusercontent.com/86380516/138641219-778e22e3-03b7-42bb-a28f-86e0cf3320ac.png" width="55"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://neps.academy/br/user/15912"><img src="https://user-images.githubusercontent.com/86380516/138533278-3ddd9f9f-371d-48c2-a3d6-c897433bd3ed.png" width="37"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
