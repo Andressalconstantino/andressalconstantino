@@ -43,6 +43,11 @@
 <br><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_vscode_opened_icon_129795.png" width="55"/> &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;  <a href="https://krita.org/en/"><img src="https://img.icons8.com/dusk/64/000000/krita.png" width="55"/></a>  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://unity.com"><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/unityeditoricon_103179.png" width="55"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://www.sublimetext.com/"><img src="https://img.icons8.com/dusk/64/000000/sublime-text-new-logo.png" width="55"/></a>  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://www.jetbrains.com/pt-br/webstorm/"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webstorm_plain_logo_icon_146294.png" width="52"/></a>
 </p>
 
+#
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andressalconstantino&show_icons=true&theme=tokyonight)  &#8287;&#8287;&#8287;&#8287;&#8287; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andressalconstantino&layout=compact)](https://github.com/Andressalconstantino/github-readme-stats)
+
+
 <!--
 **Andressalconstantino/andressalconstantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
