@@ -47,7 +47,8 @@
 
 <p align="center"> 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andressalconstantino&show_icons=true&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andressalconstantino&show_icons=true&theme=tokyonight) &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andressalconstantino)](https://github.com/Andressalconstantino/github-readme-stats)
 </p>
 
 
