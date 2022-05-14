@@ -13,20 +13,16 @@
   <samp><i> <img src="https://media0.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif?cid=790b76112bd0dea8d1d1027ed8c902bc4ea2cfa1ff390eed&rid=giphy.gif&ct=s" width="30"> Currently learning Web Development and Game Development.</i></samp>
  <br><br>
  
- <h3><samp><i>Contact and Info</i></samp></h3> 
+ <h3><samp><i>Contact</i></samp></h3> 
  
  #
  
 <p align="center">
-  <a href="https://www.linkedin.com/in/andressa-constantino/"><img src="https://img.icons8.com/officel/50/000000/linkedin.png" width="37"/></a>
+  <a href="https://www.linkedin.com/in/andressa-constantino/"><img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/linkedin.png" width="37"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.instagram.com/andressa_c0nst4nt1n0/"><img src="https://img.icons8.com/ultraviolet/40/000000/instagram.png" width="37"/></a>
+   <a href="https://www.instagram.com/andressa_c0nst4nt1n0/"><img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/instagram.png" width="37"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href='mailto:andressaconstantinooficiall@gmail.com'><img src="https://img.icons8.com/external-flatarticons-blue-flatarticons/65/000000/external-email-contact-us-flatarticons-blue-flatarticons-8.png" width="43"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/559245"><img src="https://user-images.githubusercontent.com/86380516/138641219-778e22e3-03b7-42bb-a28f-86e0cf3320ac.png" width="55"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://neps.academy/br/user/15912"><img src="https://user-images.githubusercontent.com/86380516/138533278-3ddd9f9f-371d-48c2-a3d6-c897433bd3ed.png" width="37"/></a>
+  <a href='mailto:andressaconstantinooficiall@gmail.com'><img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/email.png" width="43"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
 </p>
@@ -39,7 +35,7 @@
 
 
 <p align="center">
-&#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://img.icons8.com/ultraviolet/80/000000/py.png" width="60" alt="Python"/> &#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://img.icons8.com/ultraviolet/80/000000/c-plus-plus.png" width="60" alt="C++"/> &#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://img.icons8.com/ultraviolet/80/000000/html--v1.png" width="60"/> &#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://img.icons8.com/ultraviolet/80/000000/css.png" width="60"/>  &#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://img.icons8.com/ultraviolet/80/000000/js.png" width="60"/> &#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://img.icons8.com/ultraviolet/80/000000/cs.png" width="60"/> &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" width="45"/> 
+&#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/python.png" width="60" alt="Python"/> &#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/cpp.png" width="60" alt="C++"/> &#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/csharp.png" width="60"/> &#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/html.png" width="60"/>  &#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/css.png" width="60"/> &#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/js.png" width="60"/> &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/react.png" width="60"/> 
 <br><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_vscode_opened_icon_129795.png" width="55"/> &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://unity.com"><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/unityeditoricon_103179.png" width="55"/></a>  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://www.jetbrains.com/pt-br/webstorm/"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webstorm_plain_logo_icon_146294.png" width="52"/></a>
 </p>
 
