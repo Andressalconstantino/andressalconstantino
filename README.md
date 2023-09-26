@@ -8,7 +8,7 @@
 
 <samp><i>
  <img src="https://media0.giphy.com/media/cLN4oXeiNWhNEKcA6E/giphy.gif?cid=790b7611aaf0683090b9382caf94674ee5cfd471a3eb9395&rid=giphy.gif&ct=s" width="30"> Information Systems student at <a href="https://www.furg.br/"> FURG </a> <br>
-  <img src="https://media4.giphy.com/media/Me7PBESMDoWyzSN9M9/giphy.gif?cid=790b7611240ca99c1c824f1867dd1e33928897012f2af804&rid=giphy.gif&ct=s" width="30"> Web Developer Intern at <a href="https://www.lett.digital/"> Lett </a><br></i></samp>
+  <img src="https://media4.giphy.com/media/Me7PBESMDoWyzSN9M9/giphy.gif?cid=790b7611240ca99c1c824f1867dd1e33928897012f2af804&rid=giphy.gif&ct=s" width="30"> Developer Intern at <a href="https://www.lett.digital/"> Lett </a><br></i></samp>
   
   <samp><i> <img src="https://media0.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif?cid=790b76112bd0dea8d1d1027ed8c902bc4ea2cfa1ff390eed&rid=giphy.gif&ct=s" width="30"> Currently learning Web Development and Game Development.</i></samp>
  <br><br>
