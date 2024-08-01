@@ -27,19 +27,7 @@
   
 </p>
 
- <br><br>
- 
- <h3><samp><i>Programming Languages and Tools</i></samp></h3> 
- 
-#
-
-
-<p align="center">
-&#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/python.png" width="60" alt="Python"/> &#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/cpp.png" width="60" alt="C++"/> &#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/csharp.png" width="60"/> &#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/html.png" width="60"/>  &#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/css.png" width="60"/> &#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/js.png" width="60"/> &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <img src="https://github.com/Andressalconstantino/andressalconstantino/blob/main/icons/react.png" width="60"/> 
-<br><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_vscode_opened_icon_129795.png" width="55"/> &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://unity.com"><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/unityeditoricon_103179.png" width="55"/></a>  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://www.jetbrains.com/pt-br/webstorm/"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webstorm_plain_logo_icon_146294.png" width="52"/></a>
-</p>
-
-#
+ <br>
 
 <p align="center"> 
   
